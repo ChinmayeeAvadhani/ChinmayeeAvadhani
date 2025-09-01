@@ -62,27 +62,14 @@
       <a href="https://www.w3.org/html/" target="_blank"> <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/> </a>&nbsp;
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/> </a>&nbsp;
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> </a>&nbsp; 
-      <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/> </a>&nbsp; 
       <a href="https://reactjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> </a>&nbsp; 
-      <a href="https://redux.js.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=redux" width="40" height="40"/> </a>&nbsp; 
-    </td>
+   </td>
   </tr>
-  <tr>
-    <td>UI Libraries & Frameworks:</td>
-    <td>
-      <a href="https://tailwindcss.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/> </a>&nbsp;
-      <a href="https://threejs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=threejs" width="40" height="40"/> </a>&nbsp;
-      <a href="https://www.figma.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/> </a>&nbsp;
-      <a href="https://jestjs.io/" target="_blank"> <img src="https://skillicons.dev/icons?i=jest" width="40" height="40"/> </a>&nbsp;
-    </td>
-  </tr>
+
   <tr>
     <td>Backend:</td>
     <td>
       <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> </a>&nbsp;
-      <a href="https://expressjs.com" target="_blank"> <img src="https://skillicons.dev/icons?i=expressjs" width="40" height="40"/> </a>&nbsp;
-      <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=django" width="40" height="40"/> </a>&nbsp;
-      <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40"/> </a>&nbsp;
     </td>
   </tr>
   <tr>
